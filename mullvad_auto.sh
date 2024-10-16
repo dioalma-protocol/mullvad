@@ -212,3 +212,4 @@ load_config     # Load configurations
 change_country_once  # Initial shuffle
 countdown_timer & # Start the countdown in the background
 show_menu  # Display the main menu
+
